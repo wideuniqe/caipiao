@@ -1,16 +1,23 @@
 package org.gradle;
 
 import org.apache.commons.collections.list.GrowthList;
-
+/**
+ * äººå‘˜ç±»
+ * @author IBM
+ *
+ */
 public class Person {
     private final String name;
-
+    /**
+     * æ„é€ å‡½æ•°
+     * @param name
+     */
     public Person(String name) {
         this.name = name;
         new GrowthList();
     }
     /**
-     * ·µ»ØĞÕÃû
+     * æ·»åŠ å§“å
      * @return
      */
     public String getName() {
