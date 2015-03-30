@@ -9,7 +9,10 @@ public class Person {
         this.name = name;
         new GrowthList();
     }
-
+    /**
+     * ·µ»ØĞÕÃû
+     * @return
+     */
     public String getName() {
         return name;
     }
