@@ -30,13 +30,16 @@ eclipse gradle 插件开发
 
 2. 这里可以快捷的执行gradle命令
 
-![命令窗口] (http://i3.tietuku.com/b79acd8ad5f97278.png "命令窗口")
+![命令窗口] (http://i3.tietuku.com/b79acd8ad5f97278.png "命令窗口")shendongsheng
 
 ### 项目属性设置
 
 web项目如果要布署到tomcat,需要配一下项目属性,以指定contextpath.
 
 ![项目属性] (http://i3.tietuku.com/d0107166752c5208.png "项目属性")
+
+
+大大大大大大大大磊
 
 
 
